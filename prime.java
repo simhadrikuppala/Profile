@@ -2,8 +2,8 @@ public class prime
 {
 public static void main (String[] args)
 {		
-System.out.println("Prime numbers from 1 to 100 are :");
-for (int i = 2; i <= 100; i++)         
+System.out.println("Prime numbers from 1 to 500 are :");
+for (int i = 2; i <= 500; i++)         
 { 		  	  
 if(isprime(i))
 {
@@ -24,4 +24,5 @@ return true;
 }
 }         
           
+
 	
